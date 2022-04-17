@@ -7,6 +7,7 @@ profile:
 published: true
 ---
 
+<br>
 
 # persona’l Skills
 I have improved myself in many ways. So I am a Tree shape person. I have a `vantage point` of view. I always like to come up with new ideas and `to be different`. I want to turn `ideas` into products. And I am a good `problem solver`.

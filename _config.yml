@@ -4,7 +4,7 @@ title: Your Name
 description: subtitle | affiliations | motto
 
 baseurl: / #name of GitHub repository
-url: "muratduzen.xyz" #custom url to be used instead of GitHub repository
+url: "http://muratduzen.xyz" #custom url to be used instead of GitHub repository
 email: muratdzn@gmail.com
 
 
@@ -17,9 +17,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/muratduzen8"
-linkedin: "https://linkedin.com/in/muratduzen"
-github: "https://github.com/muratdzn"
+twitter: "muratduzen8"
+linkedin: "muratduzen"
+github: "muratdzn"
+medium: "@muratduzen"
+spotify: "muratdzn"
+500px: "muratdzn"
 #researchgate: "#"
 #orcid: "#"
 

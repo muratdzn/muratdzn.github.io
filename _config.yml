@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Murat Düzen
+description: developer in our world, hello world
 
 baseurl: / #name of GitHub repository
 url: "http://muratduzen.xyz" #custom url to be used instead of GitHub repository
@@ -9,7 +9,7 @@ email: muratdzn@gmail.com
 
 
 highlighter: rouge
-markdown: kramdown
+markdown: kramdowns
 
 # Pagination
 paginate: 4

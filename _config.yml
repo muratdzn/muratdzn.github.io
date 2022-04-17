@@ -3,9 +3,9 @@
 title: Your Name
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: /muratdzn #name of GitHub repository
+url: "muratduzen.xyz" #custom url to be used instead of GitHub repository
+email: muratdzn@gmail.com
 
 
 highlighter: rouge
@@ -17,18 +17,17 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+twitter: "https://twitter.com/muratduzen8"
+linkedin: "https://linkedin.com/in/muratduzen"
+github: "https://github.com/muratdzn"
+#researchgate: "#"
+#orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics:
+analytics: UA-42243442-1
 
 #optimization -> compress.html
 compress_html:

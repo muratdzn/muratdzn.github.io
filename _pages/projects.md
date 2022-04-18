@@ -14,7 +14,7 @@ published: true
   {% for project in site.projects %}
 
   {% if project.redirect %}
-  <div class="projectTile">
+  <div class="projectTile" style="background-image:url({{ project.background }})">
           <a href="{{ project.redirect }}" target="_blank">
           <span>
               <h2>{{ project.title }}</h2>
@@ -26,7 +26,7 @@ published: true
 
   {% else %}
 
-  <div class="projectTile">
+  <div class="projectTile" style="background-image:url({{ project.background }})">
           <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
           <span>
               <h2>{{ project.title }}</h2>

@@ -5,7 +5,7 @@ permalink: /projects/
 published: true
 ---
 
-
+---
 <div class="ProjectContainer">
 
 	<div class="gallery">

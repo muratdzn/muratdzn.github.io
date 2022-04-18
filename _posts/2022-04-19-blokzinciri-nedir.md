@@ -3,6 +3,7 @@ layout: post
 title: Blokzinciri Nedir? 
 ---
 
+![on nihilism - Simulacra & Simulation](/assets/images/on-nihilism.png "on nihilism - Simulacra & Simulation")
 
 Jean Baudrillard’ın o meşhur, nihilizminin üzerine 100 dolar konulan, kitabına başlamadan önce size bir tanım yapılır.
 

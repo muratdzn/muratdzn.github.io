@@ -16,9 +16,9 @@ published: true
   <div class="projectTile" style="background-image:url({{ project.background }});background-size:cover;">
           <a href="{{ project.redirect }}" target="_blank" style="background-color: #60c17daa;">
           <span>
-              <h2>{{ project.title }}</h2>
+              <h2>{{ project.title }} - {{ project.description }}</h2>
               <br/>
-              <p>{{ project.description }}</p>
+              <p>{{ project.title }} - {{ project.description }}</p>
           </span>
           </a>
   </div>

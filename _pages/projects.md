@@ -14,7 +14,7 @@ published: true
 
   {% if project.redirect %}
   <div class="projectTile" style="background-image:url({{ project.background }});background-size:cover;">
-          <a href="{{ project.redirect }}" target="_blank">
+          <a href="{{ project.redirect }}" target="_blank" style="background-color: #60c17daa;">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
